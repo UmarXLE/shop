@@ -1,0 +1,21 @@
+.description {
+    font-size: 16px;
+    color: black;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+.price {
+    font-size: 24px;
+    font-weight: 500;
+    color: black;
+}
+
+.productItem {
+    width: 25%;
+}
+
+.productItem:hover{
+    transition: 0.25s ease all;
+    transform: translateX(-10px) translateY(-10px);
+    cursor: pointer;
+}

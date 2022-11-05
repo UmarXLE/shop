@@ -1,0 +1,8 @@
+.infoWrapper {
+    padding: 100px 100px;
+    display: flex;
+    flex-wrap: wrap;
+    background: #FAF4F4;
+    margin: 0 auto;
+
+}

@@ -1,0 +1,13 @@
+.InfoItem {
+    width: 33.33333%;
+}
+.InfoItem h2 {
+    font-size: 32px;
+    font-weight: 500;
+    color: black;
+}
+
+.InfoItem p {
+    color: #9F9F9F;
+    font-size: 20px;
+}

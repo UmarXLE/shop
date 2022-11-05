@@ -1,0 +1,30 @@
+.wrapperProducts {
+    padding: 80px 100px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    /* flex-direction: column; */
+  }
+
+  .buttonsWrapperPaginate {
+    margin-bottom: 90px;
+    text-align: center;
+  
+  }
+
+  .buttonPaginate {
+    margin: 0 19px;
+    padding: 15px 24px;
+    background: #FFF9E6;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    color: black;
+  }
+
+  .buttonPaginate:hover{
+    transition: 0.5s ease all;
+    background: #FBEBB5;
+    cursor: pointer;
+  }

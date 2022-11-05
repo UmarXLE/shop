@@ -1,0 +1,88 @@
+footer {
+    margin: 0 100px;
+}
+
+.footerUpInfo {
+    padding: 100px 0 50px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerItem nav {
+    display: flex;
+    flex-direction: column;
+}
+
+.footerItem h2 {
+    margin-bottom: 55px;
+}
+
+.link:not(:last-child) {
+    margin-bottom: 46px;
+}
+
+.footerBottomInfo {
+    padding: 35px 0;
+    border-top:  1px solid #D9D9D9;
+}
+
+.footerBottomInfo p{
+    font-size: 16px;
+    color: black;
+}
+
+.decsr {
+    width: 30%;
+    font-size: 16px;
+    color: #9F9F9F;
+    margin: auto 0;
+}
+
+
+.footerItem {
+    width: 10%;
+}
+
+.footerForm {
+    width: 30%;
+}
+
+.footerItem h2 {
+    color: #9F9F9F;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.link {
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+}
+
+.footerForm h2{
+    font-size: 16px;
+    font-weight: 500;
+    color: #9F9F9F;
+    margin-bottom: 50px;
+}
+
+.footerForm input {
+    border: none;
+    padding-bottom: 3px;
+    color: #9F9F9F;
+    font-size: 14px;
+    margin-right: 10px;
+    border-bottom: 2px solid #000;
+}
+
+.footerForm button {
+    border: none;
+    border-bottom: 2px solid #000;
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+    background: none;
+    padding-bottom: 3px;
+}
